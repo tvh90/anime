@@ -98,7 +98,7 @@ getgenv().Config = {
 
 	},
 	["AutoRejoin"] = true,
-	["DeleteMap"] = false,
+	["DeleteMap"] = true,
 	["WebhookURL"] = "",
 	["AutoReplay"] = false,
 	["AutoJoinWorld"] = true,
