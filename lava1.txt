@@ -1,0 +1,113 @@
+getgenv().Config = {
+	["SelectChapter"] = "Infinite",
+	["AutoSave"] = true,
+	["WH_MatchComplete"] = true,
+	["AutoSkip"] = true,
+	["AutoClaimQuest"] = true,
+	["TPLobbyIfPlayer"] = false,
+	["AutoJoinHoster"] = false,
+	["WaitForJoiner"] = false,
+	["SelectMacro"] = "onlylava",
+	["JoinerList"] = {
+		[1] = "No joiner in the list"
+	},
+	["TeleportLobbyNewBanner"] = false,
+	["AutoSummonStandard"] = false,
+	["SelectReward"] = {
+		["Trait Crystal"] = false,
+		["Risky Dice"] = false,
+		["Star Rift (Rainbow)"] = false,
+		["Gems"] = false,
+		["Star Rift "] = false,
+		["Gold"] = false
+	},
+	["BoostFPS"] = true,
+	["SelectDifficulty"] = {
+		["All units lowered range"] = false,
+		["All enemies regen health"] = false,
+		["All enemies +1 shield"] = false,
+		["All units increased cost"] = false,
+		["All enemies 2x health"] = false,
+		["All enemies 2x speed"] = false
+	},
+	["JoinerCooldown"] = 0,
+	["UnselectIfSummoned"] = false,
+	["BlackScreen"] = true,
+	["AutoReturnLobby"] = true,
+	["AutoSell"] = false,
+	["AutoJoinRaid"] = false,
+	["SelectChallengeWorld"] = {
+		["Cursed Academy"] = false,
+		["Blue Planet"] = false,
+		["Windmill Village"] = false,
+		["Mob City"] = false,
+		["Underwater Temple"] = false
+	},
+	["HardMode"] = false,
+	["WH_BannerSummoned"] = true,
+	["StandardSummonUnit"] = {
+		["Dragon Slayer"] = false,
+		["Shinobi Form 3"] = false,
+		["The Gamer"] = false,
+		["Carp"] = false,
+		["Admiral Of Lava"] = false,
+		["The Beast"] = false,
+		["Bloomer"] = false,
+		["Admiral Of Light"] = false,
+		["Pink Rockstar"] = false,
+		["Clay"] = false,
+		["Cursed Fighter"] = false,
+		["Ascended Qi Master"] = false,
+		["Fire Leg Master"] = false,
+		["Esper"] = false,
+		["Maxed Qi Master"] = false,
+		["Flame Dragon King"] = false,
+		["Thunder Shinobi"] = false,
+		["Curse Prince"] = false,
+		["Spirit Hybrid"] = false,
+		["Soulforce Reaper"] = false,
+		["Admiral Of Ice"] = false,
+		["Inferno Commander"] = false,
+		["Elf Wizardess"] = false,
+		["Ant King"] = false,
+		["Sharpshooter"] = false,
+		["Skull Warrior"] = false,
+		["Vengeful Shinobi"] = false,
+		["Strongest Swordsman"] = false,
+		["Chance Taker"] = false,
+		["Master Swordsman"] = false
+	},
+	["SelectRaidMacro"] = {
+
+	},
+	["AutoJoinChallenge"] = false,
+	["AutoSummonLimited"] = false,
+	["LimitedSummonUnit"] = {
+		["Donut Warrior"] = false,
+		["The Cursed Knight"] = false,
+		["Ocean Guardian"] = false,
+		["Warrior Princess"] = false,
+		["Electric Cyborg"] = false
+	},
+	["PlayMacro"] = true,
+	["LeaveSellWave"] = 31,
+	["JoinHighest"] = false,
+	["SelectChallengeMacro"] = {
+
+	},
+	["AutoRejoin"] = true,
+	["DeleteMap"] = true,
+	["WebhookURL"] = "",
+	["AutoReplay"] = false,
+	["AutoJoinWorld"] = true,
+	["DeleteRarity"] = {
+		["Epic"] = false,
+		["Legendary"] = false,
+		["Rare"] = false
+	},
+	["SelectWorld"] = "Windmill Village",
+	["IgnoreMacroTiming"] = true,
+	["AutoLeave"] = true
+}
+getgenv().Key = "k04111c7da1af92f561a6bb2"
+repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until Joebiden
