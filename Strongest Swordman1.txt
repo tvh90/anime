@@ -111,5 +111,5 @@ getgenv().Config = {
 	["IgnoreMacroTiming"] = true,
 	["AutoLeave"] = true
 }
-getgenv().Key = "ka40962968cd724d4f32a15e"
+getgenv().Key = "ke0c21be9ec4c4babc6e085b"
 repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until Joebiden
