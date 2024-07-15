@@ -1,5 +1,5 @@
 getgenv().EquipMacroUnit = true
-getgenv().ImportMacro = "https://cdn.discordapp.com/attachments/1174162493258608671/1261874660929306695/onlylava.json?ex=66948bdb&is=66933a5b&hm=149bca0f025a2c9cdaed9c51a36ecdf4b2115c5b41afb42de25f407ce8f088e8&"
+getgenv().ImportMacro = "https://raw.githubusercontent.com/tvh90/anime/master/onlylava.json"
 getgenv().Config = {
 	["SelectChapter"] = "Infinite",
 	["AutoSave"] = true,
