@@ -1,5 +1,5 @@
 getgenv().EquipMacroUnit = true
-getgenv().ImportMacro = ""
+getgenv().ImportMacro = "https://cdn.discordapp.com/attachments/1174162493258608671/1266944672090296453/onlylava.json?ex=66a6fdac&is=66a5ac2c&hm=207829c62b5e419810f9b625f4b270ebde873a186718354334109c4769543194&"
 getgenv().Config = {
 	["SelectChapter"] = "Infinite",
 	["AutoSave"] = true,
@@ -111,5 +111,5 @@ getgenv().Config = {
 	["IgnoreMacroTiming"] = true,
 	["AutoLeave"] = true
 }
-getgenv().Key = "k04111c7da1af92f561a6bb2"
+getgenv().Key = "k51b609b98551395bb86c62d"
 repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until Joebiden
