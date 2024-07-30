@@ -1,5 +1,5 @@
 getgenv().EquipMacroUnit = true
-getgenv().ImportMacro = ""
+getgenv().ImportMacro = "https://cdn.discordapp.com/attachments/1174162493258608671/1267668243196284999/mihalk.json?ex=66a99f8d&is=66a84e0d&hm=c65ad398b3b6125228e547b74660301ea99a93cf3ca6a1c5180073b71a26411f&"
 getgenv().Config = {
 	["SelectChapter"] = "Infinite",
 	["AutoSave"] = true,
@@ -111,5 +111,5 @@ getgenv().Config = {
 	["IgnoreMacroTiming"] = true,
 	["AutoLeave"] = true
 }
-getgenv().Key = "ke0c21be9ec4c4babc6e085b"
+getgenv().Key = "k51b609b98551395bb86c62d"
 repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until Joebiden
