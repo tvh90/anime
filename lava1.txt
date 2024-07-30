@@ -34,7 +34,7 @@ getgenv().Config = {
 	},
 	["JoinerCooldown"] = 0,
 	["UnselectIfSummoned"] = false,
-	["BlackScreen"] = true,
+	["BlackScreen"] = false,
 	["AutoReturnLobby"] = true,
 	["AutoSell"] = false,
 	["AutoJoinRaid"] = false,
