@@ -1,5 +1,5 @@
 getgenv().EquipMacroUnit = true
-getgenv().ImportMacro = "https://cdn.discordapp.com/attachments/1174162493258608671/1261882078480302100/mihalk.json?ex=66953b84&is=6693ea04&hm=6c503b0fa88893618d4f2092118d650f02c931bf538e833672472bc4d81a25bf&"
+getgenv().ImportMacro = ""
 getgenv().Config = {
 	["SelectChapter"] = "Infinite",
 	["AutoSave"] = true,
@@ -34,7 +34,7 @@ getgenv().Config = {
 	},
 	["JoinerCooldown"] = 0,
 	["UnselectIfSummoned"] = false,
-	["BlackScreen"] = true,
+	["BlackScreen"] = false,
 	["AutoReturnLobby"] = true,
 	["AutoSell"] = false,
 	["AutoJoinRaid"] = false,
