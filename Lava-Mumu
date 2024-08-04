@@ -1,5 +1,5 @@
 getgenv().EquipMacroUnit = true
-getgenv().ImportMacro = ""
+getgenv().ImportMacro = "https://cdn.discordapp.com/attachments/1174162493258608671/1267515708548317349/onlylava.json?ex=66b051be&is=66af003e&hm=e4ef8e4b3eae891141e08e07750587a2a945c42e1917626c4bd545a6ae75e2e9&"
 getgenv().Config = {
 	["SelectChapter"] = "Infinite",
 	["AutoSave"] = true,
@@ -34,7 +34,7 @@ getgenv().Config = {
 	},
 	["JoinerCooldown"] = 0,
 	["UnselectIfSummoned"] = false,
-	["BlackScreen"] = true,
+	["BlackScreen"] = false,
 	["AutoReturnLobby"] = true,
 	["AutoSell"] = false,
 	["AutoJoinRaid"] = false,
@@ -111,5 +111,5 @@ getgenv().Config = {
 	["IgnoreMacroTiming"] = true,
 	["AutoLeave"] = true
 }
-getgenv().Key = "k04111c7da1af92f561a6bb2"
+getgenv().Key = "kf5afbadc9e131a97b846266"
 repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until Joebiden
