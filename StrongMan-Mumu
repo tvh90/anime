@@ -1,5 +1,5 @@
 getgenv().EquipMacroUnit = true
-getgenv().ImportMacro = "https://cdn.discordapp.com/attachments/1174162493258608671/1269204033386844241/mihalk.json?ex=66af35de&is=66ade45e&hm=35e239eddb2987882b5e4581ed79d341607624bfb05b9c655d7aeb7101740aee&"
+getgenv().ImportMacro = "https://cdn.discordapp.com/attachments/1174162493258608671/1269204033386844241/mihalk.json?ex=66afde9e&is=66ae8d1e&hm=fc838fcf14d817322e06207ff0741e784aa29f1611373025dc2729d40bec82c2&"
 getgenv().Config = {
 	["SelectChapter"] = "Infinite",
 	["AutoSave"] = true,
